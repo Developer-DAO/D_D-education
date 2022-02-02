@@ -25,7 +25,7 @@ This will be a shared space for study group members to push code, test different
 	<li>https://scrimba.com/learn/htmlcss</li>
 </ul>
 
-## JavaScipt
+## JavaScript
 <ul>
     <li>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics</li>
     <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript</li>
