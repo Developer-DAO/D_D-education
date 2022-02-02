@@ -1,7 +1,7 @@
 # D_D-education
 This will be a shared space for study group members to push code, test different commands, receive code reviews, but most importantly, break things. 
 
-
+# Study Guide
 ## HTML - Hyper Text Markup Language
 <ul>
     <li>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</li>
