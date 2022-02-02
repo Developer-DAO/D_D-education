@@ -2,6 +2,12 @@
 This will be a shared space for study group members to push code, test different commands, receive code reviews, but most importantly, break things. 
 
 # Study Guide
+
+## General
+<ul>
+    <li>https://www.codelivly.com/reactjs-roadmap-a-beginners-guide/</li>
+</ul>
+
 ## HTML - Hyper Text Markup Language
 <ul>
     <li>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</li>
@@ -43,5 +49,8 @@ This will be a shared space for study group members to push code, test different
 <ul>
     <li>VScode</li>
     <li>Git</li>
+        <ul>
+            <li>https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/</li>
+        </ul>
     <li>Emmet</li>
 </ul>
