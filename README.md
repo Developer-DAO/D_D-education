@@ -54,3 +54,36 @@ This will be a shared space for study group members to push code, test different
         </ul>
     <li>Emmet</li>
 </ul>
+
+# Web3 Study Resources
+
+## Vast Resources
+
+Compiled list of resources where you can find list of resources related to everything in web3.
+
+<ul>
+	UseWeb3 <li>https://www.useweb3.xyz/</li>
+	The Daily Ape reading resources <li>https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e</li>
+	Gaby's reading list <li>https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524</li>
+</ul>
+
+## Project Based Learning
+<ul>
+	BuildSpace <li>https://buildspace.so/</li>
+	LearnWeb3DAO <li>https://www.learnweb3.io/</li>
+	Questbook <li>https://openquest.xyz/</li>
+</ul>
+
+
+## Solidity
+
+<ul>
+	Solidity Official Doc <li>https://soliditylang.org/</li>
+	CryptoZombie<li>https://cryptozombies.io/</li>
+	Ethernaut <li>https://ethernaut.openzeppelin.com/</li>
+	Capture The Ether <li>https://capturetheether.com/</li>
+	Solidity By Example <li>https://solidity-by-example.org/</li>
+	Awesome Solidity <li>https://github.com/bkrem/awesome-solidity</li>
+	EthereumDev <li>https://ethereumdev.io/</li>
+	Solidity Cheat Sheet <li>https://topmonks.github.io/solidity_quick_ref/</li>
+</ul>
