@@ -87,3 +87,10 @@ Compiled list of resources where you can find list of resources related to every
 	EthereumDev <li>https://ethereumdev.io/</li>
 	Solidity Cheat Sheet <li>https://topmonks.github.io/solidity_quick_ref/</li>
 </ul>
+
+### Frameworks
+<ul>
+	Hardhat <li>https://hardhat.org/</li>
+	Truffle <li>https://trufflesuite.com/</li>
+	Waffle <li>https://getwaffle.io/</li>
+</ul>
