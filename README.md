@@ -10,9 +10,15 @@ This will be a shared space for study group members to push code, test different
 
 ## HTML - Hyper Text Markup Language
 <ul>
-    <li>https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics</li>
-    <li>https://developer.mozilla.org/en-US/docs/Web/Tutorials#html_tutorials</li>
-    <li>https://learnxinyminutes.com/docs/html/</li>
+    <li>
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">Mozilla Developer Netowork HTML Basics</a>
+    </li>
+    <li>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Tutorials#html_tutorials">Mozilla Developer Network HTML Tutorials</a>
+    </li>
+    <li>
+        <a href="https://learnxinyminutes.com/docs/html/"></a>
+    </li>
     <li>https://egghead.io/courses/create-and-deploy-a-basic-static-html-website-2960</li>
     <li>https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5</li>
     <li>https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app</li>
@@ -50,7 +56,9 @@ This will be a shared space for study group members to push code, test different
     <li>VScode</li>
     <li>Git</li>
         <ul>
+            <li><a href="https://git-scm.com/doc/ext">Official GIT List of Learning Resources</a></li>
             <li>https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/</li>
         </ul>
     <li>Emmet</li>
+    <li>Prettier</li>
 </ul>
