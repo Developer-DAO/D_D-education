@@ -131,7 +131,7 @@ This will be a shared space for study group members to push code, test different
 
 ## Tools
 
-### GitHub
+### Git
 <ul>
     <li>
         <a href="https://docs.github.com/en">GitHub.com - Docs</a>
