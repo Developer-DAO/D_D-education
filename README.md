@@ -52,10 +52,10 @@ This will be a shared space for study group members to push code, test different
 ### Intro Resources
 <ul>
     <li>
-        <a href="https://learnxinyminutes.com/docs/css/">Learn X in Y Minutes - CSS Quickstart</a>
+        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">Mozilla Developer Network - CSS Basics</a>
     </li>
     <li>
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">Mozilla Developer Network - CSS Basics</a>
+        <a href="https://learnxinyminutes.com/docs/css/">Learn X in Y Minutes - CSS Quickstart</a>
     </li>
 </ul>
 
