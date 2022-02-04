@@ -143,6 +143,9 @@ This will be a shared space for study group members to push code, test different
         <a href="https://docs.github.com/en/get-started/quickstart">GitHub.com - Quickstart</a>
     </li>
     <li>
+        <a href="https://www.freecodecamp.org/news/git-and-github-for-beginners/">FreeCodeCamp - Beginner's guide to Git & Github</a>
+    </li>
+    <li>
         <a href="https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/">FreeCodeCamp - Writing Good Commit Messages a Practical Guide</a>
     </li>
     <li>
