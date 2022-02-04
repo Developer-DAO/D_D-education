@@ -13,6 +13,9 @@ This will be a shared space for study group members to push code, test different
     <li>
         <a href="https://learnxinyminutes.com/docs/html/">Learn X in Y Minutes - HTML Quickstart</a>
     </li>
+    <li>
+        <a href="https://www.hostinger.com/tutorials/website/how-to-link-a-stylesheet-css-file-to-your-html-file">Hostinger.com - How to Link a Stylesheet CSS File to your HTML File</a>
+    </li>
 </ul>
 
 ### Courses
