@@ -260,6 +260,24 @@ Compiled list of resources where you can find list of resources related to every
         <a href="https://trufflesuite.com/">Truffle</a>
     </li>
 	<li>
+        <a href="https://eth-brownie.readthedocs.io/en/stable/">Brownie</a>
+    </li>
+	<li>
         <a href="https://getwaffle.io/">Waffle</a>
+    </li>
+</ul>
+
+### Smart Contract Security
+  #### Resources
+
+<ul>
+    <li>
+        <a href="https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc">Ethereum Book</a>
+    </li>
+	<li>
+        <a href="https://consensys.github.io/smart-contract-best-practices/attacks/">Consensys:Known Attacks </a>
+    </li>
+	<li>
+        <a href="https://swcregistry.io/docs/SWC-107">SWC registry: Reentrancy</a>
     </li>
 </ul>
