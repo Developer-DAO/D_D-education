@@ -85,13 +85,13 @@ This will be a shared space for study group members to push code, test different
     <li>
         <a href="https://learnxinyminutes.com/docs/js/">Learn X in Y Minutes - JavaScript Quickstart</a>
     </li>
-        <li>
+    <li>
         <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics">Mozilla Developer Network - JavaScript Basics</a>
     </li>
     <li>
         <a href="https://www.freecodecamp.org/news/javascript-skills-you-need-for-react-practical-examples/">FreeCodeCamp - Javascript Skills You Need for React(Practical Examples)</a>
     </li>
-        <li>
+    <li>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript">Mozilla Developer Network - A Re-Introduction to JavaScript</a>
     </li>
 </ul>
@@ -155,7 +155,9 @@ This will be a shared space for study group members to push code, test different
 
 ### VScode
 <ul>
-    <li><a href="https://git-scm.com/doc/ext">Official GIT List of Learning Resources</a></li>
+    <li>
+        <a href="https://git-scm.com/doc/ext">Official GIT List of Learning Resources</a>
+    </li>
     <li>
         <a href="https://code.visualstudio.com/docs">VisualStudio.com - Docs</a>
     </li>
@@ -196,9 +198,9 @@ Compiled list of resources where you can find list of resources related to every
 	<li>
         <a href="https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e">The Daily Ape reading resources</a>
     </li>
-	 <li>
+	<li>
         <a href=https://gabygoldberg.notion.site/f7050e62461143d49345e7b46eb5576b?v=c02511c4230c44ce9a1a03c9757da524">Gaby's reading list</a>
-     </li>
+    </li>
 </ul>
 
 ## Project Based Learning
@@ -213,12 +215,12 @@ Compiled list of resources where you can find list of resources related to every
     <li>
         <a href="https://buildspace.so/">BuildSpace</a>
     </li>
-     <li>
+    <li>
         <a href="https://www.learnweb3.io/">LearnWeb3DAO</a>
-     </li>
-	 <li>
+    </li>
+	<li>
         <a href="https://openquest.xyz/">Questbook</a>
-     </li>
+    </li>
 </ul>
 
 ## Solidity
@@ -227,18 +229,18 @@ Compiled list of resources where you can find list of resources related to every
     <li>
         <a href="https://soliditylang.org/">Solidity Official Doc</a>
     </li>
-	 <li>
+	<li>
         <a href="https://cryptozombies.io/">CryptoZombie</a>
-     </li>
+    </li>
 	<li>
         <a href="https://ethernaut.openzeppelin.com/">Ethernaut</a>
     </li>
-	 <li>
+	<li>
         <a href="https://capturetheether.com/">Capture The Ether</a>
-     </li>
-	 <li>
+    </li>
+	<li>
         <a href="https://solidity-by-example.org/">Solidity By Example</a>
-     </li>
+    </li>
 	<li>
         <a href="https://github.com/bkrem/awesome-solidity">Awesome Solidity</a>
     </li>
