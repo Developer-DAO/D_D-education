@@ -163,6 +163,16 @@ This will be a shared space for study group members to push code, test different
     </li>
 </ul>
 
+### VScode Extensions
+<ul>
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a>
+    </li>
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">Gitlens</a>
+    </li>
+</ul>
+
 ### Emmet
 <ul>
     <li>
