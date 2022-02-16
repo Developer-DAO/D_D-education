@@ -174,6 +174,34 @@ This will be a shared space for study group members to push code, test different
     <li>
         <a href="https://marketplace.visualstudio.com/items?itemName=timitejumola.chakra-ui-doc">Chakra UI Docs</a>
     </li>
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens">Error Lens</a>
+        <p>Displays linting/typescript/etc. errors inline</p>
+    </li>    
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a>
+        <p>Displays eslint errors for projects with eslint configuration</p>
+    </li>    
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github">GitHub Pull Requests and Issues</a>
+        <p>Official GitHub extension that allows you to see and manage issues and PRs, perform code reviews inside VSCode, etc. Very powerful extension</p>
+    </li>    
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow">indent-rainbow</a>
+        <p>Indents have a colored background, makes it easy to see which lines are on the same indent level</p>
+    </li>    
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">Live Share</a>
+        <p>Official Microsoft extension for sharing the same workspace session with multiple users. really great for pairing and mobbing</p>
+    </li>
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">Markdown All in One</a>
+        <p>Everything you need for editing Markdown files</p>
+    </li>
+    <li>
+        <a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a>
+        <p>Automatically formats your code on save. must-have extension</p>
+    </li>
 </ul>
 
 ### Emmet
